@@ -1,0 +1,11 @@
+/*Horarios*/
+.dias { 
+    color: blue;
+    font-size: 25px; 
+    }
+.dias { 
+        background-color: rgb(113, 237, 113);
+    }
+.horario {
+    background-color: rgb(113, 237, 113);
+}
